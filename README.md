@@ -18,6 +18,9 @@ This repository showcases a collection of landing pages developed for PacSun, hi
 
 - HTML5
 - CSS3
+- Javascript
+- Bootstrap
+- JSON
 - jQuery
 
 ## Role
